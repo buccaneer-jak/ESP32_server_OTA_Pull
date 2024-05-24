@@ -3,8 +3,8 @@
     {
       "Board": "ESP32_DEV",
       "Config": "TEST",
-      "Version": "0.6.0",
-      "URL": "https://buccaneer-jak.github.io/ESP32_server_OTA_Pull/ESP32_server_OTA_Pull_0.6.0.ino.bin"
+      "Version": "0.7.0",
+      "URL": "https://buccaneer-jak.github.io/ESP32_server_OTA_Pull/ESP32_server_OTA_Pull_0.7.0.ino.bin"
     },
     {
       "Board": "ESP32_DEV",
