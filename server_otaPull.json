@@ -9,7 +9,7 @@
       "Board": "ESP32_DEV",
       "Device": "84:FC:E6:65:4B:B4",
       "Config": "GROUP 1",
-      "Version": "0.6.0",
+      "Version": "0.5.0",
       "URL": "https://buccaneer-jak.github.io/ESP32_server_OTA_Pull/ESP32_server_OTA_Pull_0.6.0.ino.bin"
     }    
   ]
