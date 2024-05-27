@@ -2,7 +2,7 @@
   "Configurations": [
     {
       "Config": "TEST",
-      "Version": "16.01.0",
+      "Version": "16.0.0",
       "URL": "https://buccaneer-jak.github.io/ESP32_server_OTA_Pull/ESP32_controller_OTA_Pull_0.4.0.ino.bin"
     }
   ]
