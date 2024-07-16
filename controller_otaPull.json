@@ -2,7 +2,7 @@
   "Configurations": [
     {
       "Config": "TEST",
-      "Version": "16.0.0",
+      "Version": "0.17.0",
       "URL": "https://buccaneer-jak.github.io/ESP32_server_OTA_Pull/8048S043_T_TEST_17_OTA_Pull.ino.bin",
       "Update Order": "Controller:Server"
     }
