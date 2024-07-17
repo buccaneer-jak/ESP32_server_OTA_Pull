@@ -2,6 +2,7 @@
   "Configurations": [
     {
       "Board": "ESP32C6_DEV",
+      "Config": "TEST",
       "Version": "0.7.3",
       "URL": "https://buccaneer-jak.github.io/ESP32_server_OTA_Pull/ESP32C6_server_OTA_Pull_0.7.3.ino.bin",
       "Controller Version": "0.20.0",
