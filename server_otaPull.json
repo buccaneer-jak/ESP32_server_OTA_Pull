@@ -8,21 +8,6 @@
       "Controller Version": "0.20.0",
       "Controller URL": "https://buccaneer-jak.github.io/ESP32_server_OTA_Pull/ESP32S3_controller_OTA_Pull_0.20.0.ino.bin",
       "Update Order": "Controller:Server"
-    },
-    {
-      "Board": "ESP32_DEV",
-      "Version": "0.7.0",
-      "URL": "https://buccaneer-jak.github.io/ESP32_server_OTA_Pull/ESP32_server_OTA_Pull_0.6.0.ino.bin",
-      "Controller Version": "0.20.0",
-      "Controller URL": "https://buccaneer-jak.github.io/ESP32_server_OTA_Pull/ESP32_controller_OTA_Pull_0.4.0.ino.bin",
-      "Update Order": "Controller:Server"
-    },
-    {
-      "Board": "ESP32_DEV",
-      "Device": "84:FC:E6:65:4B:B4",
-      "Config": "GROUP_1",
-      "Version": "0.5.0",
-      "URL": "https://buccaneer-jak.github.io/ESP32_server_OTA_Pull/ESP32_server_OTA_Pull_0.6.0.ino.bin"
-    }    
+    }
   ]
 }
