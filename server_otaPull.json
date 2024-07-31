@@ -3,7 +3,7 @@
     {
       "Board": "ESP32C6_DEV",
       "Version": "0.7.5",
-      "URL": "https://buccaneer-jak.github.io/ESP32_server_OTA_Pull/ESP32C6_server_OTA_Pull_0.7.5.ino.bin",
+      "URL": "https://buccaneer-jak.github.io/ESP32_server_OTA_Pull/eZe_server_C6_v0.7.5.ino.bin",
       "Update Order": "Controller:Server"
     }
   ]
