@@ -5,7 +5,7 @@
       "Version": "0.23.0",
       "URL": "https://buccaneer-jak.github.io/ESP32_server_OTA_Pull/Controller_TEST_23_OTA_Pull.ino.bin",
       "BinSize": "972032",
-      "CRC": "1234",
+      "CRC32": "7A702B70",
       "Update Order": "Controller:Server"
     }
   ]
