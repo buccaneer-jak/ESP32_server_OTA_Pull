@@ -3,8 +3,7 @@
     {
       "Config": "TEST",
       "Version": "0.27.0",
-      "URL": "https://buccaneer-jak.github.io/ESP32_server_OTA_Pull/Controller_TEST_brdD_27_OTA_Pull.ino.bin
-",
+      "URL": "https://buccaneer-jak.github.io/ESP32_server_OTA_Pull/Controller_TEST_brdD_27_OTA_Pull.ino.bin",
       "BinSize": "1038160",
       "CRC32": "6D3B6773",
       "Update Order": "Controller:Server"
